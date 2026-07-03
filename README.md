@@ -106,40 +106,6 @@ I enjoy building scalable cloud infrastructure, automating deployments, and crea
 
 ---
 
-## ⚙️ Jenkins CI/CD Pipeline
-
-✔ Automated Build
-
-✔ Docker Image Creation
-
-✔ Deployment Pipeline
-
----
-
-## ☁️ AWS Infrastructure using Terraform
-
-✔ EC2
-
-✔ VPC
-
-✔ Security Groups
-
-✔ Infrastructure as Code
-
----
-
-## 🤖 AI Powered DevOps Pipeline
-
-✔ Jenkins
-
-✔ Docker
-
-✔ Kubernetes
-
-✔ AI Assisted Automation
-
----
-
 # 📜 Certifications
 
 🏆 AWS Certified Cloud Practitioner
