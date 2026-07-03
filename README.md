@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Akshit Barthwal
 
-### 🚀 DevOps Engineer | AWS Certified Cloud Practitioner | Cloud & Kubernetes Enthusiast
+### 🚀 DevOps Engineer Enthusiast | AWS Certified Cloud Practitioner | Cloud & Kubernetes Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;DevOps+Engineer+%7C+Cloud+Enthusiast;Linux+%7C+Docker+%7C+Kubernetes+%7C+AWS;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
