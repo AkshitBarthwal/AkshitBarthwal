@@ -177,9 +177,9 @@
 
 <p>
 
-📧 Email: YOUR_EMAIL
+📧 Email: akshitbarthwal07@gmail.com
 
-💼 LinkedIn: YOUR_LINKEDIN_URL
+💼 LinkedIn: https://www.linkedin.com/in/akshit-barthwal-687171329/
 
 💻 GitHub: https://github.com/AkshitBarthwal
 
