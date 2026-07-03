@@ -1,109 +1,105 @@
-<h1 align="center">Hi 👋, I'm Akshit Barthwal</h1>
+<div align="center">
 
-<h3 align="center">
-DevOps Engineer | AWS Certified Cloud Practitioner ☁️ | Kubernetes Enthusiast 🚀
-</h3>
+# 👋 Hi, I'm Akshit Barthwal
 
-<p align="center">
-I enjoy building scalable cloud infrastructure, automating deployments, and creating production-ready DevOps projects using modern tools.
+### 🚀 DevOps Engineer | AWS Certified Cloud Practitioner | Cloud & Kubernetes Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;DevOps+Engineer+%7C+Cloud+Enthusiast;Linux+%7C+Docker+%7C+Kubernetes+%7C+AWS;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=AkshitBarthwal&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/AkshitBarthwal?label=Followers&style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/AkshitBarthwal?affiliations=OWNER&style=for-the-badge" />
 </p>
 
----
-
-# 🚀 About Me
-
-- 🎓 BCA Student (IP University, Delhi)
-- ☁️ AWS Certified Cloud Practitioner
-- 🐧 Linux & Shell Scripting Enthusiast
-- 🐳 Docker & Containerization
-- ☸️ Kubernetes
-- ⚙️ CI/CD with Jenkins
-- 🌍 AWS Cloud
-- 🏗️ Infrastructure as Code (Terraform - Learning)
-- 🔐 Learning DevSecOps
-- 🤖 Exploring AI in DevOps
+</div>
 
 ---
 
-# 💼 Tech Stack
+# 💫 About Me
+
+🎓 BCA Student (IP University)
+
+☁️ AWS Certified Cloud Practitioner
+
+🚀 Passionate about Cloud, DevOps & Automation
+
+🐧 Linux & Shell Scripting Enthusiast
+
+🐳 Building Containerized Applications using Docker
+
+☸️ Deploying Applications on Kubernetes
+
+⚙️ Automating CI/CD Pipelines with Jenkins
+
+🏗️ Learning Terraform & Infrastructure as Code
+
+🔐 Exploring DevSecOps
+
+🤖 Learning AI for DevOps Automation
+
+💡 I enjoy building production-ready DevOps projects.
+
+---
+
+# 🛠️ Tech Stack
 
 ## ☁️ Cloud
 
-- AWS
+<p>
+<img src="https://skillicons.dev/icons?i=aws"/>
+</p>
 
 ## 🐧 Operating System
 
-- Linux (Ubuntu)
+<p>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu"/>
+</p>
 
-## 📦 Containers
+## 📦 Containers & Orchestration
 
-- Docker
-- Kubernetes
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes"/>
+</p>
 
 ## ⚙️ CI/CD
 
-- Jenkins
-- GitHub Actions (Learning)
+<p>
+<img src="https://skillicons.dev/icons?i=jenkins"/>
+</p>
 
 ## 🏗 Infrastructure as Code
 
-- Terraform
+<p>
+<img src="https://skillicons.dev/icons?i=terraform"/>
+</p>
+
+## 💻 Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=bash"/>
+</p>
+
+## 🔄 Version Control
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github"/>
+</p>
 
 ## 📊 Monitoring
 
 - Prometheus
 - Grafana
 
-## 💻 Programming & Scripting
-
-- Bash
-- Python (Basics)
-
-## 🔄 Version Control
-
-- Git
-- GitHub
-
 ---
 
-# 📂 Featured Projects
+# 🚀 Featured DevOps Projects
 
-## 🚀 Kubernetes Horizontal Pod Autoscaler (HPA)
-
-✔ CPU-based Auto Scaling
-
-✔ Metrics Server
-
-✔ NGINX Deployment
-
-✔ Apache Bench Load Testing
-
----
-
-## 🚀 Kubernetes Vertical Pod Autoscaler (VPA)
-
-✔ Automatic Resource Recommendation
-
-✔ Auto Resource Scaling
-
-✔ Metrics Server
-
-✔ Kubernetes
-
----
-
-## 🔐 Kubernetes RBAC
-
-✔ Roles
-
-✔ RoleBindings
-
-✔ ClusterRoles
-
-✔ Service Accounts
-
-✔ Secure Kubernetes Access
-
+| Project | Description | Tools |
+|----------|-------------|-------|
+| 🚀 Kubernetes Horizontal Pod Autoscaler | Automatic scaling based on CPU utilization | Kubernetes, Metrics Server |
+| 📈 Kubernetes Vertical Pod Autoscaler | Automatic resource recommendation & scaling | Kubernetes, VPA |
+| 🔐 Kubernetes RBAC | Secure cluster access using Roles & RoleBindings | Kubernetes |
 ---
 
 # 📜 Certifications
@@ -114,23 +110,21 @@ I enjoy building scalable cloud infrastructure, automating deployments, and crea
 
 # 🌱 Currently Learning
 
-- DevSecOps
+- kubernetes
+- Ci/Cd - Jenkins
 - Terraform
-- Helm
-- GitOps
-- ArgoCD
-- AI for DevOps
-- Kubernetes Advanced Concepts
+- DevSecOps
+- Agentic AI
 
 ---
 
-# 📈 GitHub Stats
+# 📈 GitHub Statistics
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AkshitBarthwal&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshitBarthwal&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -140,7 +134,17 @@ I enjoy building scalable cloud infrastructure, automating deployments, and crea
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=AkshitBarthwal&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AkshitBarthwal&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -150,33 +154,45 @@ I enjoy building scalable cloud infrastructure, automating deployments, and crea
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AkshitBarthwal&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
 
 </p>
+
+---
+
+# 🎯 2026 Goals
+
+✅ Build  Production Ready DevOps Projects
+
+✅ Learn DevSecOps
+
+✅ Master Terraform
+
+✅ Contribute to Open Source
+
 
 ---
 
 # 📫 Connect With Me
 
-📧 Email:
-akshitbarthwal07@gmail.com
+<p>
 
-💼 LinkedIn:
-https://www.linkedin.com/in/akshit-barthwal-687171329/
+📧 Email: YOUR_EMAIL
 
-🌐 GitHub:
-https://github.com/AkshitBarthwal
+💼 LinkedIn: YOUR_LINKEDIN_URL
 
----
-
-# 💡 Quote
-
-> "Automate everything. Learn continuously. Build consistently."
-
----
-
-<p align="center">
-
-⭐ Thanks for visiting my profile ⭐
+💻 GitHub: https://github.com/AkshitBarthwal
 
 </p>
+
+---
+
+<div align="center">
+
+### 💡 DevOps Philosophy
+
+*"Automate everything. Learn continuously. Build consistently."*
+
+⭐ Thanks for visiting my GitHub Profile ⭐
+
+</div>
