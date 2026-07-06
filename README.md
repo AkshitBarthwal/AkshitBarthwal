@@ -118,48 +118,6 @@
 
 ---
 
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AkshitBarthwal&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshitBarthwal&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=AkshitBarthwal&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AkshitBarthwal&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AkshitBarthwal&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
 # 🎯 2026 Goals
 
 ✅ Build  Production Ready DevOps Projects
